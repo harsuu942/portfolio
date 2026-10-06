@@ -87,6 +87,9 @@ export const metadata: Metadata = {
   },
   category: "technology",
   classification: "Portfolio & Engineering Consulting",
+  verification: {
+    google: ["google5f77342e8d1f8765.html", "google5f77342e8d1f8765"],
+  },
 };
 
 const jsonLd = {
