@@ -15,6 +15,15 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://harsuu.vercel.app",
   },
+  icons: {
+    icon: [
+      { url: "/favicon.ico", sizes: "any" },
+      { url: "/icon.svg", type: "image/svg+xml" },
+    ],
+    apple: [
+      { url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" },
+    ],
+  },
   keywords: [
     "Harsh Shah",
     "Flutter Developer",
